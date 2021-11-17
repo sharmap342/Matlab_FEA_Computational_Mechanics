@@ -1,5 +1,5 @@
-# Matlab Code of FEA for Slope Stability
-## Finite Element Code for Elasto-plastic Analysis for Slope Stability
+# FEA Matlab Code for Slope Stability
+## Finite Element Code for Slope Stability using Elasto-plastic Analysis 
 ### Description of Packages, Modules and Functions
 The main package have modules such as Elastic_Master_Code, Elastoplastic_Master_Code and setpath. The module Elastic_Master_Code sets input parameters for slope stability analysis using elastic finite element method. The input parameters such as dimensions of the geometry, mesh type, material properties, initial stress conditions, boundary conditions, and number of steps for the solver are defined in this module. Similarly, Elastoplastic_Master_Code sets input parameters for slope stability analysis using elasto-plastic finite element method.  
 
